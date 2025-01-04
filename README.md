@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Yinyong!
+
+Welcome to my GitHub profile! I'm a third-year Software Development student specializing in web development. 
+
+## 🛠️ Skills
+- Languages: HTML, CSS, JavaScript, PHP
+- Frameworks: Laravel, Vue.js
+- Tools: Git, Mysql, Sql Server
+
 
 <!--
 **YONGkyy/YONGkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
