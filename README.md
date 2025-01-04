@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yinyong!
 
-Welcome to my GitHub profile! I'm a third-year Software Development student specializing in web development. 
+Welcome to my GitHub profile! I'm a fourth-year Software Development student at Norton University specializing in web development. 
 
 ## 🛠️ Skills
 - Languages: HTML, CSS, JavaScript, PHP
