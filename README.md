@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a fourth-year Software Development student at 
 
 ## 🛠️ Skills
 - Languages: HTML, CSS, JavaScript, PHP
-- Frameworks: Laravel, Vue.js
+- Frameworks: Laravel, Vue.js, TailwindCSS
 - Tools: Git, Mysql, Sql Server
 
 
