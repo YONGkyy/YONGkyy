@@ -34,9 +34,7 @@ I'm a fourth-year Software Development student at Norton University, specializin
 
 ## 🌱 I'm currently learning
 - Advanced Laravel techniques
-- React.js
-- Cloud computing with AWS
-
+  
 ## ⚡ Fun fact
 I love solving Rubik's cubes and my best time is under 30 seconds!
 
