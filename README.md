@@ -1,6 +1,6 @@
-# Hi there, I'm Yinyong! 👋
-
+# Hi there, I'm Yinyong! 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ## 🎓 About Me
 I'm a fourth-year Software Development student at Norton University, specializing in web development. Passionate about creating efficient and user-friendly web applications.
