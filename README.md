@@ -36,7 +36,7 @@ I'm a fourth-year Software Development student at Norton University, specializin
 
 ## 📬 Contact Me
 - 📧 Email: [yongkeo9@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [KEO YINYONG](https://linkedin.com/in/your-linkedin)
+- 💼 LinkedIn: [https://www.linkedin.com/in/keo-yinyong-396277330/](https://linkedin.com/in/your-linkedin)
 
 ## 💻 My Projects
 - 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
