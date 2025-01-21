@@ -38,8 +38,8 @@ I'm a fourth-year Software Development student at Norton University, specializin
 - Cloud computing with AWS
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/keo-yinyong-396277330/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yongkeo9@gmail.com)
 
 ## ⚡ Fun fact
 I love solving Rubik's cubes and my best time is under 30 seconds!
