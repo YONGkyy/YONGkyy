@@ -1,5 +1,5 @@
-# Hi there, I'm Yinyong! 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Yinyong! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: inline-block;">
+
 
 
 ## 🎓 About Me
