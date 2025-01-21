@@ -35,13 +35,12 @@ I'm a fourth-year Software Development student at Norton University, specializin
 - Advanced Laravel techniques
 
 ## 📬 Contact Me
-- 📧 Email: [your.email@example.com](mailto:yongkeo9@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/keo-yinyong-396277330/)
+- 📧 Email: [yongkeo9@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [KEO YINYONG](https://linkedin.com/in/your-linkedin)
 
 ## 💻 My Projects
 - 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
-- 🌍 Portfolio: [Your Portfolio]([https://yourportfolio.com](https://keoyinyong.netlify.app))
-
+- 🌍 Portfolio: [https://keoyinyong.netlify.app](https://yourportfolio.com)
 
   
 ## ⚡ Fun fact
