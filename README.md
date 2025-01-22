@@ -35,12 +35,12 @@ I'm a fourth-year Software Development student at Norton University, specializin
 - Advanced Laravel techniques
 
 ## 📬 Contact Me
-- 📧 Email: [yongkeo9@gmail.com](yongkeo9@gmail.com)
+- 📧 Email: [yongkeo9@gmail.com](mailto:yongkeo9@gmail.com)
 - 💼 LinkedIn: [Keo Yinyong](https://www.linkedin.com/in/keo-yinyong-396277330/)
 
 ## 💻 My Projects
 - 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
-- 🌍 Portfolio: [https://keoyinyong.netlify.app](https://keoyinyong.netlify.app)
+- 🌍 Personal Website: [keoyinyong.netlify.app](https://keoyinyong.netlify.app)
 
   
 ## ⚡ Fun fact
