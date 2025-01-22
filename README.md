@@ -37,11 +37,11 @@ I'm a fourth-year Software Development student at Norton University, specializin
 ## 📬 Contact Me
 Portfolio: [https://keoyinyong.netlify.app](https://yourportfolio.com)
 - 📧 Email: [yongkeo9@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/keo-yinyong-396277330/](https://linkedin.com/in/your-linkedin)
+- 💼 LinkedIn: [https://www.linkedin.com/in/keo-yinyong-396277330/](https://www.linkedin.com/in/keo-yinyong-396277330/)
 
 ## 💻 My Projects
 - 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
-- 🌍 Portfolio: [https://keoyinyong.netlify.app](https://yourportfolio.com)
+- 🌍 Portfolio: [https://keoyinyong.netlify.app](https://keoyinyong.netlify.app)
 
   
 ## ⚡ Fun fact
