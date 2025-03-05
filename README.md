@@ -25,8 +25,9 @@ I'm a fourth-year Software Development student at Norton University, specializin
 ## 📊 GitHub Stats
 
 <a href="https://github.com/YONGkyy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" />
 </a>
+
 <a href="https://github.com/YONGkyy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGkyy&layout=compact&theme=radical" />
 </a>
