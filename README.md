@@ -23,14 +23,13 @@ I'm a fourth-year Software Development student at Norton University, specializin
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## 📊 GitHub Stats
-
 <a href="https://github.com/YONGkyy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800&token=YOUR_GITHUB_TOKEN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/YONGkyy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGkyy&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/YONGkyy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGkyy&layout=compact&theme=radical" />
-</a>
 
 ## 🌱 I'm currently learning
 - Advanced Laravel techniques
