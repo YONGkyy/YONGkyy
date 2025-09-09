@@ -40,7 +40,7 @@ I'm a fourth-year Software Development student at Norton University, specializin
 
 ## 💻 My Projects
 - 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
-- 🌍 Personal Website: [keoyinyong.netlify.app](https://portfolio-ky.pages.dev/)
+- 🌍 Personal Website: [portfolio-ky](https://portfolio-ky.pages.dev/)
 
   
 ## ⚡ Fun fact
