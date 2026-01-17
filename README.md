@@ -1,51 +1,59 @@
-# Hi there, I'm Yinyong! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: inline-block;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1>Hi there, I'm Yinyong!</h1>
+  <h3>Fourth-Year Software Development Student @ Norton University</h3>
+  <p><i>Specializing in Web Development & Advanced Laravel Techniques</i></p>
 
-## 🎓 About Me
-I'm a fourth-year Software Development student at Norton University, specializing in web development. Passionate about creating efficient and user-friendly web applications.
+  <a href="https://portfolio-ky.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=firefox" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/keo-yinyong-396277330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yongkeo9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 🛠️ Skills
+<br />
 
-### Languages
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### 👨‍💻 About Me
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Tools & Databases
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-## 📊 GitHub Stats
-<a href="https://github.com/YONGkyy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/YONGkyy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGkyy&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
-</a>
-
-
-## 🌱 I'm currently learning
-- Advanced Laravel techniques
-
-## 📬 Contact Me
-- 📧 Email: [yongkeo9@gmail.com](mailto:yongkeo9@gmail.com)
-- 💼 LinkedIn: [Keo Yinyong](https://www.linkedin.com/in/keo-yinyong-396277330/)
-
-## 💻 My Projects
-- 🔗 GitHub: [YONGkyy](https://github.com/YONGkyy)
-- 🌍 Personal Website: [portfolio-ky](https://portfolio-ky.pages.dev/)
-
-  
-## ⚡ Fun fact
-I love solving Rubik's cubes and my best time is under 30 seconds!
+- 🎓 I'm currently a **Fourth-year Student** specializing in **Web Development**.
+- 🌱 I’m currently learning **Advanced Laravel techniques**.
+- 💼 Passionate about creating **efficient** and **user-friendly** web applications.
+- ⚡ **Fun fact:** I love solving **Rubik's cubes** and my best time is under **30 seconds!**
 
 ---
 
-⭐️ From [YONGkyy](https://github.com/YONGkyy)
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <br />
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/YONGkyy/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YONGkyy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/YONGkyy/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YONGkyy&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" height="180" alt="top languages" />
+  </a>
+</div>
